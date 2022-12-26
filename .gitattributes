@@ -1,0 +1,6 @@
+bert-base-chinese filter=lfs diff=lfs merge=lfs -text
+1m-acc0.79ccks2019_rel.pth filter=lfs diff=lfs merge=lfs -text
+52m-f54.81n7192.16ccks2019_ner.pth filter=lfs diff=lfs merge=lfs -text
+dev_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
+test_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
+train_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
