@@ -4,3 +4,4 @@ bert-base-chinese filter=lfs diff=lfs merge=lfs -text
 dev_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
 test_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
 train_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
