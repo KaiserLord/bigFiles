@@ -5,3 +5,5 @@ dev_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
 test_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
 train_data[[:space:]]copy.json filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
+models/rel_cls/*.pth filter=lfs diff=lfs merge=lfs -text
+models/sequence_labeling/*.pth filter=lfs diff=lfs merge=lfs -text
