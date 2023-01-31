@@ -1,0 +1,3 @@
+model/*.7z
+models/rel_cls/*.7z
+models/sequence_labeling/*.7z
